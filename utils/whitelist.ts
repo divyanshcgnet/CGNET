@@ -1,0 +1,18 @@
+export const whitelistedRefs = [
+  'c0O1J7smLx2LTRR9',
+  'Px3K1nNfL75JpHK9',
+  'GFOi5fOULriscYN0',
+  'fu7EK3PHG2QUS2yq',
+  'WMsS4I9HvwolBQ27',
+  '265zGe1pfY6kBw4e',
+  'm0ZqX6PLC9LbfjUI',
+  'o06VuCiIJ4Q8cyYN',
+  'CvV4YtvgXJYSJtSF',
+  'NbZAaYNlRzWGAIEp',
+  'mNrP0qAHP5cPxaQ8',
+  'NvmY9eRCHiheM9iL',
+  'aAgJ3RG3b8kw4D2j',
+  'Px3K1nNfL75JpHK9',
+  'rt5cWA72QTxXd6QO',
+  'c0O1J7smLx2LTRR9',
+]

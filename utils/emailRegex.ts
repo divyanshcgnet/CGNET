@@ -1,0 +1,1 @@
+export const emailRegex = /^([a-zA-Z0-9]+)([a-zA-Z])?([\_\.\-\+]{0,1})?([a-zA-Z0-9]+)\@([a-zA-Z0-9]+)([\-])?([a-zA-Z0-9]+)\.([a-zA-Z]+)+$/i

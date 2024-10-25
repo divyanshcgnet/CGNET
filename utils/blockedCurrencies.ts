@@ -1,0 +1,1 @@
+export const blockedCurrencies = ['ET']
